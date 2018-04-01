@@ -6,7 +6,7 @@
 name: Dahye Kim
 
 # Short bio or description (displayed in the header)
-description: interested in people, mathmatics. 
+description: interested in people & mathmatics.
 
 #
 # Flags below are optional
@@ -48,11 +48,11 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: 
+  twitter:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2018 Dahye Kim 
+footer-text: © 2018 Dahye Kim
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -69,7 +69,7 @@ url: https://kimdahye.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: 
+baseurl:
 
 #
 # !! You don't need to change any of the configuration flags below !!
