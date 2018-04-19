@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dynamic Programming과 Greedy Algorithm"
+title: "Hash Table 정리"
 tags: [algorithm]
 comments: true
 ---
