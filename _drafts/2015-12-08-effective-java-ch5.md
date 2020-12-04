@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThreadPoolExecutor"
+title: "Effective Java Ch 5 Generics"
 tags: [java, effective java]
 comments: true
 ---
